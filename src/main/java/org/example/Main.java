@@ -19,7 +19,7 @@ class Main {
         System.out.println(account2);
 
 
-        System.out.println("Hello Mayuri Gadhave");
+
         /* System.out.println("Account Details: "+account);
 
          //deposit money
