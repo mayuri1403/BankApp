@@ -6,6 +6,7 @@ import org.example.service.RealBankAccountService;
 class Main {
     public static void main(String[] args) {
 
+        System.out.println("This is Banking Application");
         BankAccountService service=new RealBankAccountService();
 
         BankAccount account1=new BankAccount("Mayuri","123456",75000);
